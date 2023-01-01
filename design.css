@@ -39,12 +39,14 @@
 }
 
 .symbol2{
+    width = 50 %;
     background-color: rgb(72, 72, 175);
     font-weight: bold;
 
 }
 
 .symbol3{
+    width = 50%;
     background-color: red;
     font-weight: bold;
 }
